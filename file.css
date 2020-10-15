@@ -1,0 +1,83 @@
+﻿h1,h3{
+	font-family: 'Noto Sans TC', sans-serif;
+	padding: 10px 20px;
+}
+header nav img{
+	width: 100;
+    height: 120;
+}
+header button{
+	margin:10px;
+}
+p,h5{
+	font-family: 'Sansita Swashed', cursive;
+}
+h5{
+	font-size: 25px;
+}
+#intro .jumbotron{
+	height:70vh;
+	margin-bottom: 0px;
+	background-image:url('picture/bg.jpg');
+	background-size:cover;
+}
+#intro h1{
+	font-size: 65px;
+    font-weight: 700;
+    line-height: 1.5;
+	color: #4ca2ff;
+}
+#intro .lead{
+	font-size: 20px;
+    font-weight: 200;
+    line-height: 1.5;
+	color: #99c7f5;
+}
+.btn-outline-success {
+    color: #17a2b8;
+    border-color: #17a2b8;
+
+}
+.btn-outline-success:hover {
+    color: white;
+    border-color: #17a2b8;
+	background-color: #17a2b8
+}
+#intro .btn{
+	    background: #007bff;
+		color: #f8f9fa;
+		font-size: 15px;
+		font-weight: 700;
+		line-height: 1.5;
+		border-radius: 18px;
+		padding: 10px 20px;
+}
+#intro .container{
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#main,#photo{
+	padding:80px;
+}
+#main,#photo h3{
+	font-size:36px;
+	line-height:1.5;
+	margin-bottom:80px;
+}
+#main img{
+	width:100px;
+	border-radius:50%;
+	margin-bottom: 13px;
+}
+#main p{
+	font-size: 25px
+}
+#photo img{
+	max-width:100%;
+}
+#photo .row{
+	padding: 10px 20px;
+}
